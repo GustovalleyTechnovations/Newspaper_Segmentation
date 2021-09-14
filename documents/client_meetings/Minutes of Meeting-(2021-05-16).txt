@@ -1,0 +1,17 @@
+Date: 16-05-2021
+
+Technical Discussion with Shilpa(Ph.D Project)
+
+1. Discussed about the dataset collected from PRIma Research and 
+explained how segmentation has performed.
+2. Explained collectively how our dataset should reach the final set of completion.
+3. Explained the modelling architecture and basics of ML/DL.
+4. Shared some outputs from the old pre-processing methods.
+
+Deliverables:
+1. Recent research papers on the pre-processing methodologies.
+2. Sample code for modelling(preprocessing and architecture).
+3. Points to be added for customer's 1st phase submission to her guide.
+
+
+Next discussion will be on on/before 26-05-2021
