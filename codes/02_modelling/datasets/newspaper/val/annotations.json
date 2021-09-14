@@ -1,0 +1,1652 @@
+{
+	"img_2018-02-01-26-C.png": {
+		"fileref": "",
+		"size": 2400013,
+		"filename": "img_2018-02-01-26-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 51,
+					"ymin": 1359,
+					"xmax": 386,
+					"ymax": 474
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 51,
+					"ymin": 1857,
+					"xmax": 383,
+					"ymax": 670
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 442,
+					"ymin": 1355,
+					"xmax": 381,
+					"ymax": 432
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 440,
+					"ymin": 1807,
+					"xmax": 383,
+					"ymax": 716
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 837,
+					"ymin": 1947,
+					"xmax": 381,
+					"ymax": 576
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 835,
+					"ymin": 1651,
+					"xmax": 379,
+					"ymax": 290
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 835,
+					"ymin": 1350,
+					"xmax": 379,
+					"ymax": 294
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1225,
+					"ymin": 1357,
+					"xmax": 385,
+					"ymax": 142
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1225,
+					"ymin": 1507,
+					"xmax": 381,
+					"ymax": 336
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1223,
+					"ymin": 1853,
+					"xmax": 386,
+					"ymax": 670
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 46,
+					"ymin": 31,
+					"xmax": 1566,
+					"ymax": 51
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 44,
+					"ymin": 101,
+					"xmax": 193,
+					"ymax": 980
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 257,
+					"ymin": 93,
+					"xmax": 753,
+					"ymax": 610
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1028,
+					"ymin": 97,
+					"xmax": 582,
+					"ymax": 862
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"14": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1026,
+					"ymin": 982,
+					"xmax": 582,
+					"ymax": 349
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"15": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 644,
+					"ymin": 1175,
+					"xmax": 361,
+					"ymax": 160
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"16": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 258,
+					"ymin": 716,
+					"xmax": 745,
+					"ymax": 438
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"17": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 46,
+					"ymin": 1104,
+					"xmax": 191,
+					"ymax": 231
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"18": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 256,
+					"ymin": 1175,
+					"xmax": 367,
+					"ymax": 155
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			}
+		}
+	},
+	"img_2018-02-01-27-C.png": {
+		"fileref": "",
+		"size": 2521163,
+		"filename": "img_2018-02-01-27-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 847,
+					"ymin": 1336,
+					"xmax": 760,
+					"ymax": 1178
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 44,
+					"ymin": 2111,
+					"xmax": 778,
+					"ymax": 399
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 255,
+					"ymin": 1344,
+					"xmax": 571,
+					"ymax": 742
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 40,
+					"ymin": 1348,
+					"xmax": 200,
+					"ymax": 737
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1224,
+					"ymin": 1025,
+					"xmax": 379,
+					"ymax": 129
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 49,
+					"ymin": 222,
+					"xmax": 1560,
+					"ymax": 1100
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 244,
+					"ymin": 2380,
+					"xmax": 386,
+					"ymax": 123
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 44,
+					"ymin": 23,
+					"xmax": 1574,
+					"ymax": 200
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			}
+		}
+	},
+	"img_2018-02-01-28-C.png": {
+		"fileref": "",
+		"size": 2699634,
+		"filename": "img_2018-02-01-28-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 446,
+					"ymin": 2137,
+					"xmax": 761,
+					"ymax": 390
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1224,
+					"ymin": 2044,
+					"xmax": 383,
+					"ymax": 480
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1220,
+					"ymin": 1650,
+					"xmax": 388,
+					"ymax": 379
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1226,
+					"ymin": 1250,
+					"xmax": 379,
+					"ymax": 381
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1226,
+					"ymin": 856,
+					"xmax": 383,
+					"ymax": 383
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1230,
+					"ymin": 562,
+					"xmax": 375,
+					"ymax": 280
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1228,
+					"ymin": 265,
+					"xmax": 379,
+					"ymax": 289
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1224,
+					"ymin": 104,
+					"xmax": 381,
+					"ymax": 148
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 832,
+					"ymin": 1560,
+					"xmax": 383,
+					"ymax": 569
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 836,
+					"ymin": 1213,
+					"xmax": 379,
+					"ymax": 332
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 832,
+					"ymin": 862,
+					"xmax": 383,
+					"ymax": 338
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 836,
+					"ymin": 565,
+					"xmax": 377,
+					"ymax": 289
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 834,
+					"ymin": 353,
+					"xmax": 381,
+					"ymax": 196
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 836,
+					"ymin": 95,
+					"xmax": 379,
+					"ymax": 243
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"14": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 440,
+					"ymin": 95,
+					"xmax": 383,
+					"ymax": 247
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"15": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 442,
+					"ymin": 359,
+					"xmax": 377,
+					"ymax": 896
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"16": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 442,
+					"ymin": 1273,
+					"xmax": 381,
+					"ymax": 854
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"17": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 44,
+					"ymin": 1572,
+					"xmax": 388,
+					"ymax": 950
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"18": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 53,
+					"ymin": 1132,
+					"xmax": 375,
+					"ymax": 429
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"19": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 44,
+					"ymin": 742,
+					"xmax": 383,
+					"ymax": 379
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"20": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 47,
+					"ymin": 348,
+					"xmax": 383,
+					"ymax": 381
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"21": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 49,
+					"ymin": 95,
+					"xmax": 381,
+					"ymax": 245
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"22": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 50,
+					"ymin": 32,
+					"xmax": 1561,
+					"ymax": 48
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			}
+		}
+	},
+	"img_2018-02-01-29-C.png": {
+		"fileref": "",
+		"size": 2286843,
+		"filename": "img_2018-02-01-29-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 940,
+					"ymin": 2276,
+					"xmax": 667,
+					"ymax": 248
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1182,
+					"ymin": 1790,
+					"xmax": 423,
+					"ymax": 480
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 972,
+					"ymin": 1983,
+					"xmax": 197,
+					"ymax": 287
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1176,
+					"ymin": 1397,
+					"xmax": 429,
+					"ymax": 387
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1175,
+					"ymin": 730,
+					"xmax": 437,
+					"ymax": 648
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1172,
+					"ymin": 102,
+					"xmax": 433,
+					"ymax": 612
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 48,
+					"ymin": 93,
+					"xmax": 1109,
+					"ymax": 450
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 45,
+					"ymin": 563,
+					"xmax": 705,
+					"ymax": 650
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 770,
+					"ymin": 565,
+					"xmax": 384,
+					"ymax": 654
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 319,
+					"ymin": 1239,
+					"xmax": 835,
+					"ymax": 427
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 60,
+					"ymin": 1240,
+					"xmax": 238,
+					"ymax": 1257
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 319,
+					"ymin": 1690,
+					"xmax": 323,
+					"ymax": 578
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"12": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 662,
+					"ymin": 1688,
+					"xmax": 291,
+					"ymax": 574
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"13": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 972,
+					"ymin": 1686,
+					"xmax": 185,
+					"ymax": 276
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"14": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 319,
+					"ymin": 2287,
+					"xmax": 597,
+					"ymax": 217
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"15": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 48,
+					"ymin": 31,
+					"xmax": 1559,
+					"ymax": 48
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			}
+		}
+	},
+	"img_2018-02-01-30-C.png": {
+		"fileref": "",
+		"size": 3003041,
+		"filename": "img_2018-02-01-30-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 53,
+					"ymin": 1338,
+					"xmax": 1560,
+					"ymax": 1189
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 42,
+					"ymin": 32,
+					"xmax": 1571,
+					"ymax": 51
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1411,
+					"ymin": 99,
+					"xmax": 203,
+					"ymax": 638
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1416,
+					"ymin": 758,
+					"xmax": 189,
+					"ymax": 304
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 45,
+					"ymin": 96,
+					"xmax": 1342,
+					"ymax": 800
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 47,
+					"ymin": 1145,
+					"xmax": 384,
+					"ymax": 171
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 45,
+					"ymin": 904,
+					"xmax": 384,
+					"ymax": 221
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 456,
+					"ymin": 907,
+					"xmax": 163,
+					"ymax": 411
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 640,
+					"ymin": 904,
+					"xmax": 384,
+					"ymax": 411
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1043,
+					"ymin": 904,
+					"xmax": 347,
+					"ymax": 221
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"10": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1048,
+					"ymin": 1147,
+					"xmax": 339,
+					"ymax": 171
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"11": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1413,
+					"ymin": 1083,
+					"xmax": 195,
+					"ymax": 245
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			}
+		}
+	},
+	"img_2018-02-01-31-C.png": {
+		"fileref": "",
+		"size": 1788822,
+		"filename": "img_2018-02-01-31-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 16,
+					"ymin": 23,
+					"xmax": 1561,
+					"ymax": 221
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 16,
+					"ymin": 273,
+					"xmax": 1561,
+					"ymax": 2229
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			}
+		}
+	},
+	"img_2018-02-01-32-C.png": {
+		"fileref": "",
+		"size": 2639059,
+		"filename": "img_2018-02-01-32-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 15,
+					"ymin": 30,
+					"xmax": 1561,
+					"ymax": 2470
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			}
+		}
+	},
+	"img_2018-02-01-33-C.png": {
+		"fileref": "",
+		"size": 4513819,
+		"filename": "img_2018-02-01-33-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [
+						12.614477860057403,
+						992.5818192088669,
+						992.8351216563389,
+						796.5377059090215,
+						795.8795526673714,
+						12.614477860057403,
+						12.614477860057403
+					],
+					"all_points_y": [
+						913.6061968550459,
+						914.8726317953511,
+						1200.580323409399,
+						1199.3138884690939,
+						2008.692505196427,
+						2010.3388551594126,
+						913.6061968550459
+					]
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 17,
+					"ymin": 233,
+					"xmax": 973,
+					"ymax": 662
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 999,
+					"ymin": 249,
+					"xmax": 579,
+					"ymax": 948
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 802,
+					"ymin": 1206,
+					"xmax": 775,
+					"ymax": 606
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 813,
+					"ymin": 1834,
+					"xmax": 762,
+					"ymax": 665
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 23,
+					"ymin": 2028,
+					"xmax": 758,
+					"ymax": 471
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 19,
+					"ymin": 18,
+					"xmax": 1557,
+					"ymax": 207
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			}
+		}
+	},
+	"img_2018-02-01-34-C.png": {
+		"fileref": "",
+		"size": 3541673,
+		"filename": "img_2018-02-01-34-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [
+						696.8893254747868,
+						1580.4387688277662,
+						1578.609473913992,
+						1190.7989521938435,
+						1190.7989521938435,
+						697.7557805652102,
+						696.8893254747868
+					],
+					"all_points_y": [
+						89.63545077493993,
+						87.80615586116565,
+						964.0384195590477,
+						964.0384195590477,
+						464.6409080986682,
+						463.51518815173,
+						89.63545077493993
+					]
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [
+						16.39161755075308,
+						1582.2680637415404,
+						1582.2680637415404,
+						731.6962408302443,
+						730.6830890131473,
+						386.21278525011305,
+						386.21278525011305,
+						14.562322636978795,
+						16.39161755075308
+					],
+					"all_points_y": [
+						10.975769482645707,
+						14.634359310194274,
+						58.537437240777098,
+						62.05531207495839,
+						37.9930482091582,
+						37.9930482091582,
+						62.05531207495839,
+						62.19602706832566,
+						10.975769482645707
+					]
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [
+						16.41378268097322,
+						396.3442647725552,
+						396.3442647725552,
+						688.8907359830733,
+						688.8907359830733,
+						16.41378268097322,
+						16.41378268097322
+					],
+					"all_points_y": [
+						79.78540123923222,
+						81.05183617953749,
+						44.325222910684569,
+						45.59165785098984,
+						466.0480580323406,
+						466.0480580323406,
+						79.78540123923222
+					]
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 16,
+					"ymin": 986,
+					"xmax": 1562,
+					"ymax": 1511
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 31,
+					"ymin": 487,
+					"xmax": 1138,
+					"ymax": 476
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			}
+		}
+	},
+	"img_2018-02-01-35-C.png": {
+		"fileref": "",
+		"size": 4269172,
+		"filename": "img_2018-02-01-35-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [
+						15.494778202874532,
+						566.5939406472957,
+						566.0465467734618,
+						691.4236058636839,
+						691.4236058636839,
+						1580.4084375969385,
+						1580.4084375969385,
+						1267.3982012551113,
+						1265.865991107434,
+						496.4067831661666,
+						496.4067831661666,
+						15.494778202874532,
+						15.494778202874532
+					],
+					"all_points_y": [
+						85.7843035880467,
+						85.7843035880467,
+						45.59165785098984,
+						45.59165785098984,
+						78.51896629892694,
+						77.9857305345879,
+						733.0658670251263,
+						731.999395496448,
+						1294.5631268741593,
+						1291.9636025230064,
+						1538.3985189454227,
+						1533.7193671802289,
+						85.7843035880467
+					]
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [
+						15.147347740667949,
+						1575.1418917492929,
+						1573.8754568089876,
+						701.3018022629177,
+						700.2886504458207,
+						16.41378268097322,
+						15.147347740667949
+					],
+					"all_points_y": [
+						22.79582892549492,
+						22.79582892549492,
+						63.32174701526366,
+						64.58818195556894,
+						37.9930482091582,
+						37.9930482091582,
+						22.79582892549492
+					]
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1288,
+					"ymin": 763,
+					"xmax": 282,
+					"ymax": 524
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 813,
+					"ymin": 1317,
+					"xmax": 757,
+					"ymax": 1188
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 515,
+					"ymin": 1325,
+					"xmax": 288,
+					"ymax": 201
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 18,
+					"ymin": 1554,
+					"xmax": 764,
+					"ymax": 951
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			}
+		}
+	},
+	"img_2018-02-01-36-C.png": {
+		"fileref": "",
+		"size": 3630096,
+		"filename": "img_2018-02-01-36-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 412,
+					"ymin": 90,
+					"xmax": 1165,
+					"ymax": 1703
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 18,
+					"ymin": 91,
+					"xmax": 379,
+					"ymax": 1711
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 18,
+					"ymin": 1813,
+					"xmax": 1559,
+					"ymax": 121
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 18,
+					"ymin": 1942,
+					"xmax": 1559,
+					"ymax": 553
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 14,
+					"ymin": 13,
+					"xmax": 1565,
+					"ymax": 52
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			}
+		}
+	},
+	"img_2018-02-01-37-C.png": {
+		"fileref": "",
+		"size": 4385943,
+		"filename": "img_2018-02-01-37-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [
+						10.903732809430228,
+						727.9873390089497,
+						727.7331561308212,
+						865.7373165376164,
+						864.6063069341685,
+						1570.8970731424195,
+						1569.82885274531,
+						1165.5546768011935,
+						1161.8960869736448,
+						977.1373006824421,
+						975.3080057686678,
+						10.903732809430228,
+						10.903732809430228
+					],
+					"all_points_y": [
+						38.415193189259969,
+						43.903077930582828,
+						68.27574251704606,
+						68.27574251704606,
+						42.805500982318239,
+						44.45186640471509,
+						184.7587862912027,
+						182.92949137742844,
+						898.1838026631735,
+						897.0862424626041,
+						1290.3846489240753,
+						1288.555354010301,
+						38.415193189259969
+					]
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 812,
+					"ymin": 1316,
+					"xmax": 763,
+					"ymax": 1190
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 995,
+					"ymin": 923,
+					"xmax": 583,
+					"ymax": 389
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1192,
+					"ymin": 200,
+					"xmax": 380,
+					"ymax": 709
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 17,
+					"ymin": 1307,
+					"xmax": 776,
+					"ymax": 1192
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			}
+		}
+	},
+	"img_2018-02-01-38-C.png": {
+		"fileref": "",
+		"size": 3619394,
+		"filename": "img_2018-02-01-38-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [
+						22.44447484943858,
+						1577.2720023704174,
+						1577.2720023704174,
+						796.1045186640466,
+						798.0801571709228,
+						425.4747528615772,
+						424.684479371316,
+						17.70294695481332,
+						22.44447484943858
+					],
+					"all_points_y": [
+						1181.0367355856297,
+						1181.8269789300398,
+						2494.0460993139106,
+						2494.0460993139106,
+						2008.0390266223588,
+						2008.0390266223588,
+						1427.991548945158,
+						1427.991548945158,
+						1181.0367355856297
+					]
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 11,
+					"ymin": 75,
+					"xmax": 1563,
+					"ymax": 1100
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 20,
+					"ymin": 2028,
+					"xmax": 759,
+					"ymax": 476
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 18,
+					"ymin": 1453,
+					"xmax": 381,
+					"ymax": 571
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 18,
+					"ymin": 12,
+					"xmax": 1559,
+					"ymax": 61
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			}
+		}
+	},
+	"img_2018-02-01-39-C.png": {
+		"fileref": "",
+		"size": 4725399,
+		"filename": "img_2018-02-01-39-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 10,
+					"ymin": 33,
+					"xmax": 1564,
+					"ymax": 2465
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			}
+		}
+	}
+}
