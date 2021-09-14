@@ -1,0 +1,1 @@
+1. Write a program to convert pdf slides to images('png' or 'jpeg') using python
