@@ -1,0 +1,736 @@
+{
+	"img_2018-02-02-4-C.png": {
+		"fileref": "",
+		"size": 2875695,
+		"filename": "img_2018-02-02-4-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 44,
+					"ymin": 31,
+					"xmax": 1561,
+					"ymax": 50
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 53,
+					"ymin": 89,
+					"xmax": 1548,
+					"ymax": 576
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 449,
+					"ymin": 677,
+					"xmax": 840,
+					"ymax": 793
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1293,
+					"ymin": 677,
+					"xmax": 314,
+					"ymax": 791
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 46,
+					"ymin": 680,
+					"xmax": 382,
+					"ymax": 958
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 46,
+					"ymin": 1657,
+					"xmax": 384,
+					"ymax": 607
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1415,
+					"ymin": 1496,
+					"xmax": 192,
+					"ymax": 772
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 823,
+					"ymin": 1492,
+					"xmax": 570,
+					"ymax": 770
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 437,
+					"ymin": 1477,
+					"xmax": 380,
+					"ymax": 782
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"9": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 46,
+					"ymin": 2280,
+					"xmax": 1560,
+					"ymax": 242
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			}
+		}
+	},
+	"img_2018-02-02-5-C.png": {
+		"fileref": "",
+		"size": 3003124,
+		"filename": "img_2018-02-02-5-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 47,
+					"ymin": 91,
+					"xmax": 1559,
+					"ymax": 566
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 43,
+					"ymin": 667,
+					"xmax": 246,
+					"ymax": 1851
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 296,
+					"ymin": 662,
+					"xmax": 1101,
+					"ymax": 658
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1417,
+					"ymin": 673,
+					"xmax": 192,
+					"ymax": 646
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 293,
+					"ymin": 1344,
+					"xmax": 533,
+					"ymax": 748
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 296,
+					"ymin": 2107,
+					"xmax": 527,
+					"ymax": 399
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 842,
+					"ymin": 1336,
+					"xmax": 763,
+					"ymax": 1182
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 41,
+					"ymin": 30,
+					"xmax": 1565,
+					"ymax": 54
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			}
+		}
+	},
+	"img_2018-02-02-6-C.png": {
+		"fileref": "",
+		"size": 3680656,
+		"filename": "img_2018-02-02-6-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 431,
+					"ymin": 83,
+					"xmax": 1173,
+					"ymax": 2432
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 47,
+					"ymin": 101,
+					"xmax": 375,
+					"ymax": 675
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 38,
+					"ymin": 803,
+					"xmax": 382,
+					"ymax": 517
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 36,
+					"ymin": 1345,
+					"xmax": 390,
+					"ymax": 579
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 38,
+					"ymin": 1949,
+					"xmax": 386,
+					"ymax": 559
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 38,
+					"ymin": 31,
+					"xmax": 1563,
+					"ymax": 53
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			}
+		}
+	},
+	"img_2018-02-02-7-C.png": {
+		"fileref": "",
+		"size": 3290627,
+		"filename": "img_2018-02-02-7-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 46,
+					"ymin": 83,
+					"xmax": 1553,
+					"ymax": 2439
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			}
+		}
+	},
+	"img_2018-02-02-8-C.png": {
+		"fileref": "",
+		"size": 2536988,
+		"filename": "img_2018-02-02-8-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 367,
+					"ymin": 670,
+					"xmax": 934,
+					"ymax": 951
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 369,
+					"ymin": 1647,
+					"xmax": 936,
+					"ymax": 441
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 371,
+					"ymin": 2107,
+					"xmax": 932,
+					"ymax": 402
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1322,
+					"ymin": 665,
+					"xmax": 290,
+					"ymax": 1853
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 46,
+					"ymin": 665,
+					"xmax": 303,
+					"ymax": 1853
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 50,
+					"ymin": 82,
+					"xmax": 1558,
+					"ymax": 564
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 38,
+					"ymin": 34,
+					"xmax": 1573,
+					"ymax": 43
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			}
+		}
+	},
+	"img_2018-02-02-9-C.png": {
+		"fileref": "",
+		"size": 2140020,
+		"filename": "img_2018-02-02-9-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 38,
+					"ymin": 1326,
+					"xmax": 1573,
+					"ymax": 1205
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 45,
+					"ymin": 666,
+					"xmax": 958,
+					"ymax": 656
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1022,
+					"ymin": 669,
+					"xmax": 587,
+					"ymax": 653
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 48,
+					"ymin": 88,
+					"xmax": 1555,
+					"ymax": 571
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 45,
+					"ymin": 32,
+					"xmax": 1561,
+					"ymax": 50
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			}
+		}
+	},
+	"img_2018-02-02-10-C.png": {
+		"fileref": "",
+		"size": 2650334,
+		"filename": "img_2018-02-02-10-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "polygon",
+					"all_points_x": [
+						632.393320235756,
+						1612.7956777996065,
+						1610.7783889980347,
+						1411.0667976424357,
+						1409.0495088408639,
+						634.4106090373279,
+						632.393320235756
+					],
+					"all_points_y": [
+						679.8263261296658,
+						681.8436149312374,
+						1214.4078585461685,
+						1212.3905697445967,
+						1662.2459724950878,
+						1662.2459724950878,
+						679.8263261296658
+					]
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 41,
+					"ymin": 2206,
+					"xmax": 1358,
+					"ymax": 303
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1413,
+					"ymin": 1235,
+					"xmax": 192,
+					"ymax": 1271
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 39,
+					"ymin": 675,
+					"xmax": 587,
+					"ymax": 977
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 39,
+					"ymin": 1673,
+					"xmax": 375,
+					"ymax": 518
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 435,
+					"ymin": 1673,
+					"xmax": 571,
+					"ymax": 516
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1024,
+					"ymin": 1673,
+					"xmax": 373,
+					"ymax": 518
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 39,
+					"ymin": 93,
+					"xmax": 1565,
+					"ymax": 577
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"8": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 45,
+					"ymin": 34,
+					"xmax": 1559,
+					"ymax": 50
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			}
+		}
+	},
+	"img_2018-02-02-3-C.png": {
+		"fileref": "",
+		"size": 3176031,
+		"filename": "img_2018-02-02-3-C.png",
+		"base64_img_data": "",
+		"file_attributes": {},
+		"regions": {
+			"0": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 44,
+					"ymin": 34,
+					"xmax": 1563,
+					"ymax": 344
+				},
+				"region_attributes": {
+					"label": "title"
+				}
+			},
+			"1": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 292,
+					"ymin": 394,
+					"xmax": 803,
+					"ymax": 1169
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"2": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 294,
+					"ymin": 1569,
+					"xmax": 723,
+					"ymax": 616
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"3": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1038,
+					"ymin": 1574,
+					"xmax": 560,
+					"ymax": 947
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"4": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 40,
+					"ymin": 2195,
+					"xmax": 979,
+					"ymax": 312
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			},
+			"5": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 46,
+					"ymin": 1802,
+					"xmax": 241,
+					"ymax": 392
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"6": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 44,
+					"ymin": 393,
+					"xmax": 232,
+					"ymax": 1409
+				},
+				"region_attributes": {
+					"label": "non-article"
+				}
+			},
+			"7": {
+				"shape_attributes": {
+					"name": "rectangle",
+					"xmin": 1112,
+					"ymin": 390,
+					"xmax": 493,
+					"ymax": 1171
+				},
+				"region_attributes": {
+					"label": "article"
+				}
+			}
+		}
+	}
+}
