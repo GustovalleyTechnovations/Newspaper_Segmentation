@@ -1,0 +1,18 @@
+Topics:
+
+Abstract 
+Introduction
+Contribution of the work
+Proposed methodology
+Implementation 
+Literature survey
+Research gap
+Results and discussions with proper metrics
+Comparative analysis with previous work
+Conclusion 
+Limitations of the work
+References
+
+Should include  mathematical analysis
+
+Should refer atleast 8 to 9 most recent papers
