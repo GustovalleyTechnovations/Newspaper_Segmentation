@@ -1,4 +1,0 @@
-1. Collect the datasets containing images of newspapers of various newspaper irrespective of their quality.
-2. Refer, Understand and Identify the methods involved as Preprocessing Algorithms for Article segmentation.
-3. Collect related Reference Papers for those algorithms identified.
-4. Collect sample python code for the algorithm implementation.
