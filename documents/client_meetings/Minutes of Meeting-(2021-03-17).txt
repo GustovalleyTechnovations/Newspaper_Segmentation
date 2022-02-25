@@ -1,8 +1,0 @@
-Date: 17-03-2021
-
-Technical Discussion with Shilpa(Ph.D Project)
-
-1. Discussed the implementation of layout preprocessing.
-2. Clarified the previously submitted codes and outputs.
-3. Submitted the code,outputs,references,etc.
-4. Need to submit the process flow of preprocessing as of completed.
